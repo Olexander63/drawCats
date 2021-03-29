@@ -7,5 +7,5 @@ const drawCats = function (HowManyTimes) {
     }
 };
 
-drawCats(10); // Викликаємо 10 китотиків / Calling 10 Cats
+drawCats(10); // Викликаємо 10 котиків / Calling 10 Cats
 
