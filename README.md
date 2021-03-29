@@ -1,6 +1,7 @@
 # drawCats
 draw Cats
 
+=^.^= 
 
 A simple application that draws cats in the browser console
 
